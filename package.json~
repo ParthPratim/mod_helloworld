@@ -1,0 +1,18 @@
+{
+  "name": "mod_helloworld",
+  "version": "0.0.0",
+  "description": "This is a Node.js module to print Hello World in the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ParthPratim/mod_helloworld.git"
+  },
+  "author": "“Parth <“www.ppc007logs@gmail.com”>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ParthPratim/mod_helloworld/issues"
+  }
+}
