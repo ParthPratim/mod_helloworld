@@ -1,5 +1,5 @@
 {
-  "name": "mod_helloworld",
+  "name": "@parthpratim/mod_helloworld",
   "version": "1.0.1",
   "description": "This is a Node.js module to print Hello World in the console",
   "main": "index.js",
