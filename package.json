@@ -4,7 +4,8 @@
   "description": "This is a Node.js module to print Hello World in the console",
   "main": "index.js",
   "scripts": {
-    "test": "node test/test.js"
+    "test": "node test/test.js",
+    "cover": "./node_modules/.bin/istanbul cover npm run test"
   },
   "repository": {
     "type": "git",
@@ -14,5 +15,9 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/ParthPratim/mod_helloworld/issues"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.0",
+    "istanbul": "^0.4.5"
   }
 }
