@@ -16,3 +16,12 @@ helloworld.HelloWorld();
 ```sh
 Output should be 'Hello World !!!' in the console
 ```
+## Test
+
+```sh
+npm run test
+```
+### Output
+```sh
+Output should be 'Hello World !!!' in the console
+```
