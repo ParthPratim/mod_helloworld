@@ -3,7 +3,7 @@ This is a Node.js module to print Hello World in the console
 
 # Installation and Testing
 * Create a new project folder
-* cd into the directory from the command ling
+* cd into the directory from the command line
 * Install the mod_helloworld package using the following command 
   ```sh
     npm install mod_helloworld --save
