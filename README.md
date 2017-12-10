@@ -1,5 +1,5 @@
 # mod_helloworld
-This is Node.js module to print Hello World in the console
+This is a Node.js module to print Hello World in the console
 
 # Installation
 ```sh
@@ -15,5 +15,13 @@ helloworld.HelloWorld();
 ```
 ```sh
 Output should be 'Hello World !!!' in the console
+```
+##Test
+```sh
+npm test
+```
+###Output
+```sh
+Hello World!!!
 ```
 
